@@ -6,4 +6,3 @@ Can be useful for logger if you do not want to manually apply colors for many ta
 ```go
 fmt.Println(str2color.Format("test string"))
 ```
-$ <span style="color:MediumSeaGreen">test string</span>
